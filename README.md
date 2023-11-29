@@ -1,4 +1,4 @@
-<h1 align="center">👋 Skyline Hosting</h1>
+<h1 align="center">Skyline Hosting</h1>
 <h3 align="center">Our mission is to provide individuals and businesses with cost-effective, reliable, and efficient web hosting solutions. With a dedicated team of professionals and cutting-edge technology, we aim to empower our clients by offering a platform where they can easily host and manage their websites, applications, and online projects. We understand the importance of a strong online presence in today's digital landscape, and we are committed to helping our customers succeed by delivering top-notch hosting services at affordable prices. In addition to shared hosting, we also specialize in VPS (Virtual Private Server) and dedicated server hosting, offering scalable and customizable solutions to meet the diverse needs of our clients. Our journey has just begun, and we look forward to growing and evolving alongside our clients, adapting to their ever-changing hosting needs.</h3>
 
 - 🔭 I’m currently working on [Skyline Hosting](https://skylinehosting.co.uk)
